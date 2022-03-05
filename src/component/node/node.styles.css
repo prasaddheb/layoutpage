@@ -1,0 +1,47 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+}
+
+li .logo {
+  display: inline;
+  margin: 10px 10px;
+}
+
+.logo:hover {
+  background-color: skyblue;
+}
+
+li .history {
+  margin: 20px 15px 0 1000px;
+  float: right;
+}
+
+#activity {
+  margin: 20px 0px 0px 0px;
+  color: rgba(218, 18, 168, 0.247);
+}
+
+.gene {
+  font-size: 25px;
+}
+
+.header {
+  width: 1384px;
+  height: 48px;
+  margin-left: 32px;
+  border-top: 140px;
+}
+/*# sourceMappingURL=node.styles.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAA;EACJ,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,WAAW,CAAC,wDAA8D,CAAC,EAAE,CAAC,EAAE,CAAC,SAAS,CAAC,WAAW;EAClH,UAAU,EAAE,WAAW,CAAC,gDAAgD,CAAC,EAAE,CAAC,EAAE,CAAC,SAAS,CAAC,WAAW;EACpG,UAAU,EAAE,qBAAqB;EACjC,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "mainnav.styles.scss"
+    ],
+    "names": [],
+    "file": "mainnav.styles.css"
+}

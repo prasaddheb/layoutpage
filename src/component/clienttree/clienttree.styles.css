@@ -1,0 +1,134 @@
+.Clienttree {
+  margin-left: 32px;
+}
+
+.searchbar {
+  border-top: 240px;
+  width: 464px;
+  height: 48px;
+  margin-left: 16px;
+  border-radius: 8px;
+  background-color: #249e79;
+}
+
+div .search {
+  padding: 20px 0px 0px 5px;
+}
+
+div .client-button {
+  margin: 0px 0px 0px 292px;
+  padding: 1px 0px 0px 20px;
+}
+
+div .manage-client {
+  border-top: 212px;
+  width: 464px;
+  height: 419px;
+}
+
+div .client {
+  border-top: 293px;
+  width: 464px;
+  height: 48px;
+  border-radius: 8px;
+}
+
+h2 {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+.system-color {
+  margin-left: 250px;
+  color: green;
+}
+
+.enterprise-color {
+  margin-left: 245px;
+  color: green;
+}
+
+.practice-color {
+  margin-left: 240px;
+  color: green;
+}
+
+.green-color {
+  margin-left: 300px;
+  color: green;
+}
+
+.red-color {
+  margin-left: 240px;
+  color: red;
+}
+
+.enterprise2-color {
+  margin-left: 240px;
+  color: green;
+}
+
+.prod-color {
+  margin-left: 232px;
+  color: green;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.system {
+  border-top: 342px;
+  width: 464px;
+  height: 20px;
+  margin-left: 32px;
+}
+
+.block {
+  border-top: 390px;
+  width: 464px;
+  height: 48px;
+  margin-left: 60px;
+}
+
+.cross {
+  border-top: 600px;
+  width: 464px;
+  height: 20px;
+  margin-left: 5px;
+}
+
+div.system-Prod {
+  border-top: 583px;
+  width: 464px;
+  height: 48px;
+  margin-left: 0px;
+}
+
+.practice1 {
+  border-top: 438px;
+  width: 464px;
+  height: 30px;
+  margin-left: 30px;
+}
+
+.practice2 {
+  border-top: 486px;
+  width: 464px;
+  height: 30px;
+  margin-left: 30px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+/*# sourceMappingURL=clienttree.styles.css.map */
