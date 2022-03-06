@@ -1,0 +1,76 @@
+
+.main-tile{
+    display: inline;
+}
+.tilee{
+
+    margin-top: 16px;
+    margin-left: 24px;
+    width: 272px;
+    height: 163px;
+    // background-color: aqua;
+    border: 1px solid var(---dddddd);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DDDDDD;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+}
+.provider{
+    margin-top: -165px;
+    margin-left:320px;
+    width: 272px;
+    height: 163px;
+    // background-color: aqua;
+    border: 1px solid var(---dddddd);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DDDDDD;
+    border-radius: 8px;
+    opacity: 1;
+}
+.appointment{
+    margin-top: -165px;
+    margin-left: 616px;
+    width: 272px;
+    height: 163px;
+    // background-color: aqua;
+    border: 1px solid var(---dddddd);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DDDDDD;
+    border-radius: 8px;
+    opacity: 1;
+}
+.location{
+    color: black;
+    margin: 16px 104px 0px 104px;
+    width: 57.7px;
+    height: 37.8px;
+}
+.PersonLogo{
+    color: black;
+    margin: 16px 104px 0px 104px;
+    width: 57.7px;
+    height: 37.8px;
+}
+.locationsclass{
+text-align: center;
+}
+.Provider_Resuorce{
+text-align: center;
+}
+.Appointment_Type{
+    text-align: center;
+}
+.fif{
+    text-align: center;
+    color: #235BA8;
+}
+.CalenderLogo{
+    color: black;
+    margin: 16px 104px 0px 104px;
+    width: 57.7px;
+    height: 37.8px;
+}
+a{
+    text-decoration: none;
+}

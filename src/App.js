@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
 import Mainpage from './component/mainpage/mainpage.component';
-import Content from './component/container/container.component';
+// import Content from './component/container/container.component';
 function App() {
   return (
     <div className="App">
       <Mainpage/>
-   < Content/>
+   {/* < Content/> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

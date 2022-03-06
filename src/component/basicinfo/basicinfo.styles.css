@@ -1,0 +1,87 @@
+.basictemplate {
+  margin-top: 16px;
+  margin-left: 24px;
+  width: 864px;
+  height: 313px;
+  border: 1px solid var(---dddddd);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #DDDDDD;
+  border-radius: 8px;
+  opacity: 1;
+}
+
+.Bass {
+  margin: 10px 605px 19px 24px;
+  padding-top: 19px;
+  text-align: center;
+}
+
+.basic {
+  margin-top: 24px;
+  border: 1px solid var(---dddddd);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-bottom: 1px solid black;
+  opacity: 1;
+}
+
+.edi {
+  margin-left: 100px;
+}
+
+.rowss {
+  color: #00000099;
+  text-align: left;
+  padding-left: 24px;
+  padding-top: 24px;
+  padding-bottom: 0px;
+}
+
+.rowsss {
+  color: #00000099;
+  text-align: left;
+  padding-left: 350px;
+  padding-top: 24px;
+  padding-bottom: 0px;
+}
+
+.rowssss {
+  color: #00000099;
+  text-align: left;
+  padding-left: 430px;
+  padding-top: 24px;
+  padding-bottom: 0px;
+}
+
+.rowss {
+  margin-top: 24px;
+  width: 432px;
+}
+
+.pmm {
+  margin-left: 430px;
+  color: #00000099;
+}
+
+.one {
+  margin-top: 24px;
+}
+
+.tim {
+  color: #00000099;
+  margin-left: 416px;
+}
+
+#blackl {
+  color: black;
+}
+
+.com {
+  margin-top: 30px;
+  padding-top: 24px;
+  line-height: 40px;
+}
+
+tr {
+  margin-top: 50px;
+}
+/*# sourceMappingURL=basicinfo.styles.css.map */

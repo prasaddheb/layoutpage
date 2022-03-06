@@ -2,6 +2,7 @@ import React from "react";
 import MainNav from "../mainnav/mainnav.component";
 import SubNav from "../subnav/subnav.component";
 import Node from "../node/node.component";
+import Content from "../container/container.component";
 import './mainpage.styles.css';
 export default function Mainpage(){
     return(
@@ -10,6 +11,7 @@ export default function Mainpage(){
                 <MainNav/>
                 <SubNav/>
                 <Node/>
+                <Content/>
         </div>
     );
 }

@@ -13,10 +13,27 @@
   margin-left: 24px;
   width: 864px;
   height: 119px;
+  border-radius: 8px;
+  opacity: 1;
+  border: 1px solid #DDDDDD;
+  background-color: #FFFFFF;
+}
+
+.cli {
+  margin-left: 32px;
 }
 
 .button-console {
-  margin-top: 32px;
+  margin-top: -5px;
   margin-left: 816px;
+}
+
+.activee {
+  margin-left: 12px;
+}
+
+.system-color {
+  margin-left: 32px;
+  color: green;
 }
 /*# sourceMappingURL=content.styles.css.map */
