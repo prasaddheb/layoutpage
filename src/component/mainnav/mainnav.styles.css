@@ -17,13 +17,6 @@
   height: 32px;
 }
 
-.circle {
-  margin-top: 0px;
-  margin-left: 32px;
-  width: 32px;
-  height: 32px;
-}
-
 .export {
   margin-top: 0px;
   margin-left: 32px;
@@ -33,14 +26,14 @@
 
 .linkk {
   margin-top: 0px;
-  margin-left: 900px;
+  margin-left: 850px;
   width: 32px;
   height: 32px;
 }
 
 .profile {
   margin-top: 0px;
-  margin-left: 15px;
+  margin-left: 25px;
   width: 32px;
   height: 32px;
 }

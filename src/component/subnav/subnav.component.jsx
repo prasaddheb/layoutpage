@@ -20,27 +20,27 @@ export default function SubNav(){
         <div className="Subnav">
           {/* <ReactTooltip /> */}
  <ul>
-        <li>
-        <a href="/">client</a>
-      
-        </li> 
-        <Tippy content="Setting" placement="bottom" arrow={false}>
-        <li>  <Logo   className="logo"/></li>
-        </Tippy>
-        <Tippy content="Location" placement="bottom" arrow={false}>
-        <li>  <Location   className="logo"/></li>
-        </Tippy>
-        <Tippy content="Person" placement="bottom" arrow={false}>
-        <li>  <Person   className="logo"/></li>
-        </Tippy>
-        <Tippy content="Todotask" placement="bottom" arrow={false}>
-        <li>  <Calender  className="logo"/></li>
-        </Tippy>
-        <Tippy content="Light" placement="bottom" arrow={false}>
-        <li>  <Light   className="logo"/></li>
-        </Tippy>
-        <Tippy content="Statistics" placement="bottom" arrow={false}>
-        <li>  <Chart   className="logo"/></li></Tippy>
+                    <li>
+                    <a href="/">client</a>
+                
+                            </li> 
+                            <Tippy content="Setting" placement="bottom" arrow={false}>
+                            <li>  <Logo   className="logo"/></li>
+                            </Tippy>
+                            <Tippy content="Location" placement="bottom" arrow={false}>
+                            <li>  <Location   className="logo"/></li>
+                            </Tippy>
+                            <Tippy content="Person" placement="bottom" arrow={false}>
+                            <li>  <Person   className="logo"/></li>
+                            </Tippy>
+                            <Tippy content="Todotask" placement="bottom" arrow={false}>
+                            <li>  <Calender  className="logo"/></li>
+                            </Tippy>
+                            <Tippy content="Light" placement="bottom" arrow={false}>
+                            <li>  <Light   className="logo"/></li>
+                            </Tippy>
+                            <Tippy content="Statistics" placement="bottom" arrow={false}>
+                            <li>  <Chart   className="logo"/></li></Tippy>
      </ul>
         </div>
     );
